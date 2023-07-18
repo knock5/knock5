@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 - 👋 Hi, I'm Miftachul Huda
-- 👀 I'm interested in Software Engineering and Cloud Engineering 
-- 📚 I'm currently learning Front-End Web Development Learning Path
+- 👀 I'm interested in Software Engineering
+- 📚 I'm prefer developing on Front-End and Back-End Web Development
+- 🎯 My next goal in 2023: Learning Java Fullstack Development
 - 💻 I'm looking to collaborate for developing apps
 - 🤝 How to reach me on 
 <a href="https://www.instagram.com/miftachulhd/" target="_blank">Instagram</a>,
