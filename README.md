@@ -7,7 +7,6 @@
 - 💻 I'm looking to collaborate for developing apps
 - 🤝 How to reach me on 
 <a href="https://www.instagram.com/miftachulhd/" target="_blank">Instagram</a>,
-<a href="https://www.linkedin.com/in/miftachul-hd/" target="_blank">LinkedIn</a>, and
 <a href="https://t.me/mif_OS" target="_blank">Telegram</a>
 
 <!--
