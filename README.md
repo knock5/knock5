@@ -3,7 +3,7 @@
 - 👋 Hi, I'm Miftachul Huda
 - 👀 I'm interested in Software Engineering
 - 📚 I'm prefer developing on Front-End and Back-End Web Development
-- 🎯 My next goal in 2025: Learn Fullstack Development (ReactJS, Java) & Learn AI for apps
+- 🎯 My next goal in 2025: Learn Fullstack Development (Svelte | Go) & Learn AI for apps
 - 💻 I'm looking for productivity environment to work
 - 🤝 How to reach me on 
 <a href="https://www.instagram.com/miftachulhd/" target="_blank">Instagram</a> | 
